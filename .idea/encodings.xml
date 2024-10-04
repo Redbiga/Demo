@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BasicDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BasicDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CompletableFutureDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CompletableFutureDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DebugDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DebugDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JvmDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JvmDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KotlinDemo3/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KotlinDemo3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringLogsDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringLogsDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/erroDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/erroDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisPlusDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisPlusDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remoteDebug/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remoteDebug/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

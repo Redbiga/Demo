@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompletableFutureDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FunctionDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinDemo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinDemo3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringLogsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mybatisPlusDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/remoteDebug" vcs="Git" />
+  </component>
+</project>

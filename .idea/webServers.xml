@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9affc583-1d74-4729-9b1a-3e912530e991" name="192.168.44.130">
+        <fileTransfer accessType="SFTP" host="192.168.44.130" port="22" sshConfigId="19e4f6d8-64d8-4257-a619-796dbd35782e" sshConfig="reda@192.168.44.130:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e211358c-56b3-4a3e-9d76-c759bcfbd2cc" name="localhostCentos">
+        <fileTransfer accessType="SFTP" host="192.168.44.168" port="22" sshConfigId="a442ceff-20d3-4c8b-a6c9-664efd473045" sshConfig="localhostCentos">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

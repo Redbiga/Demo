@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatisPlusDemo" />
+        <module name="OptionalDemo" />
+        <module name="BasicDemo" />
+        <module name="CompletableFutureDemo" />
+        <module name="KotlinDemo3" />
+        <module name="FunctionDemo" />
+        <module name="LombokDemo" />
+        <module name="remoteDebug" />
+        <module name="JvmDemo" />
+        <module name="DebugDemo" />
+        <module name="SpringLogsDemo" />
+        <module name="erroDemo" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="KotlinDemo1.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BasicDemo" options="" />
+    </option>
+  </component>
+</project>
